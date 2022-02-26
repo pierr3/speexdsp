@@ -40,6 +40,8 @@ jitter_buffer_get
 jitter_buffer_get_pointer_timestamp
 jitter_buffer_tick
 jitter_buffer_update_delay
+jitter_buffer_ctl
+jitter_buffer_remaining_span
 
 ;
 ;	speex_preprocess.h
